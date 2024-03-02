@@ -4,7 +4,7 @@ Minimal chat app.
 
 ### Goals
 
-- 'dogfood' [genie](https://github.com/omnisci3nce/genie)s development.
+- 'dogfood' [genie's](https://github.com/omnisci3nce/genie) development.
 - minimal friction login
 - clean, modern UI without the feature bloat
 
